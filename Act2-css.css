@@ -1,0 +1,222 @@
+.rtt {
+  display: inline-block;
+  color: red;
+  font-family: Courier;
+  text-align: left;
+  font-size: 25px;
+}
+
+.rtt .rdc {
+  visibility: hidden;
+  width: 230px;
+  background-color: #ffb3ba;
+  border-radius: 5px;
+  position: absolute;
+  padding: 12px;
+  text-align:justify;
+  font-size: 18px;
+}
+
+.rdc::first-letter {
+	       font-size: 45px;
+		   font-weight: bold;
+	       float: left;
+           line-height: 0.8;
+           
+}      
+         
+.rtt:hover .rdc {
+  visibility: visible;
+}
+
+
+.ott {
+  display: inline-block;
+  color: orange;
+  font-family: Helvetica;
+  text-align: left;
+  font-size: 25px;
+}
+
+.ott .odc {
+  visibility: hidden;
+  width: 230px;
+  background-color: #ffdfba;
+  border-radius: 5px;
+  position: absolute;
+  padding: 12px;
+  text-align:justify;
+  font-size: 18px;
+}
+
+.odc::first-letter {
+	       font-size: 45px;
+		   font-weight: bold;
+	       float: left;
+           line-height: 0.8;
+           
+}      
+         
+.ott:hover .odc {
+  visibility: visible;
+}
+
+
+.ytt {
+  display: inline-block;
+  color: #F4C430;
+  font-family: Georgia;
+  text-align: left;
+  font-size: 25px;
+}
+
+.ytt .ydc {
+  visibility: hidden;
+  width: 230px;
+  background-color: #ffffba;
+  border-radius: 5px;
+  position: absolute;
+  padding: 12px;
+  text-align:justify;
+  font-size: 18px;
+}
+
+.ydc::first-letter {
+	       font-size: 45px;
+		   font-weight: bold;
+	       float: left;
+           line-height: 0.8;
+           
+}      
+         
+.ytt:hover .ydc {
+  visibility: visible;
+}
+
+
+.gtt {
+  display: inline-block;
+  color: green;
+  font-family: Verdana;
+  text-align: left;
+  font-size: 25px;
+}
+
+.gtt .gdc {
+  visibility: hidden;
+  width: 230px;
+  background-color: #baffc9;
+  border-radius: 5px;
+  position: absolute;
+  padding: 12px;
+  text-align:justify;
+  font-size: 18px;
+}
+
+.gdc::first-letter {
+	       font-size: 45px;
+		   font-weight: bold;
+	       float: left;
+           line-height: 0.8;
+           
+}      
+         
+.gtt:hover .gdc {
+  visibility: visible;
+}
+
+
+.btt {
+  display: inline-block;
+  color: blue;
+  font-family: Trebuchet MS;
+  text-align: left;
+  font-size: 25px;
+}
+
+.btt .bdc {
+  visibility: hidden;
+  width: 230px;
+  background-color: #bae1ff;
+  border-radius: 5px;
+  position: absolute;
+  padding: 12px;
+  text-align:justify;
+  font-size: 18px;
+}
+
+.bdc::first-letter {
+	       font-size: 45px;
+		   font-weight: bold;
+	       float: left;
+           line-height: 0.8;
+           
+}      
+         
+.btt:hover .bdc {
+  visibility: visible;
+}
+
+
+.itt {
+  display: inline-block;
+  color: indigo;
+  font-family: Tahoma;
+  text-align: left;
+  font-size: 25px;
+}
+
+.itt .idc {
+  visibility: hidden;
+  width: 230px;
+  background-color: #A79BE4;
+  border-radius: 5px;
+  position: absolute;
+  padding: 12px;
+  text-align:justify;
+  font-size: 18px;
+}
+
+.idc::first-letter {
+	       font-size: 45px;
+		   font-weight: bold;
+	       float: left;
+           line-height: 0.8;
+           
+}      
+         
+.itt:hover .idc {
+  visibility: visible;
+}
+
+
+.vtt {
+  display: inline-block;
+  color: #8F00FF;
+  font-family: Garamond;
+  text-align: left;
+  font-size: 25px;
+}
+
+.vtt .vdc {
+  visibility: hidden;
+  width: 230px;
+  background-color: #CF9FFF;
+  border-radius: 5px;
+  position: absolute;
+  padding: 12px;
+  text-align:justify;
+  font-size: 18px;
+}
+
+.vdc::first-letter {
+	       font-size: 45px;
+		   font-weight: bold;
+	       float: left;
+           line-height: 0.8;
+           
+}      
+         
+.vtt:hover .vdc {
+  visibility: visible;
+}
